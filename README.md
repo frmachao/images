@@ -3,4 +3,4 @@
 
 ## Use
 - 资源目录 frmchao/images/home/cookie.jpg
-- 资源链接 https://raw.githubusercontent.com/frmchao/images/home/cookie.jpg
+- 资源链接 https://raw.githubusercontent.com/frmchao/images/master/home/cookie.jpg
