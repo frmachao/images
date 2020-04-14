@@ -4,3 +4,4 @@
 ## Use
 - 资源目录 frmchao/images/home/cookie.jpg
 - 资源链接 https://raw.githubusercontent.com/frmachao/images/master/home/cookie.jpg
+- Markdown `![cookie](https://raw.githubusercontent.com/frmachao/images/master/home/cookie.jpg)`
