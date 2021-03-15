@@ -9,4 +9,3 @@
 ## Question
 - githubusercontent在国内经常被墙
 - [ping检测raw.githubusercontent.com在国内的状态](http://ping.chinaz.com/raw.githubusercontent.com)
-- 暂时迁移到国内的[gitee.com](https://gitee.com/mccode/images)
