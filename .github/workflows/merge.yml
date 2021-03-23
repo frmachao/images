@@ -17,7 +17,7 @@ jobs:
       - name: automerge
         uses: "pascalgn/automerge-action@v0.13.1"
         env:
-          GITHUB_TOKEN: "${{ secrets.UPIC }}"
+          GITHUB_TOKEN: "${{ secrets.IMGBOT }}"
           MERGE_LABELS: ""
           MERGE_METHOD: "squash"
           MERGE_COMMIT_MESSAGE: "pull-request-description"
